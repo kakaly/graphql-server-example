@@ -1,0 +1,19 @@
+{
+  "name": "graphql-server-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -e js,json,graphql"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.9.0",
+    "graphql": "^14.5.3",
+    "http-server": "^0.11.1",
+    "nodemon": "^1.19.1"
+  }
+}
